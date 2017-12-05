@@ -154,6 +154,8 @@
 .cw_cont3 {overflow: hidden;position: relative;}
 .cw_cont3 img{width: 70%;}
 .cw_cont3 h5{color:#fb685e;font-weight: bold;line-height: 30px;margin-top: 5px;}
+.cw_cont1_2 {overflow:hidden;position: relative;margin-bottom: 15px;}
+.cw_cont1_2 li{font-size: 14px;line-height: 2.0;color: #666;}
 
 /*特殊*/
 .sp_cont1 {overflow: hidden;position: relative;margin-bottom: 15px;}
