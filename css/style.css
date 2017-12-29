@@ -283,6 +283,9 @@
 .tr_cont5 .container li{line-height: 2.0;text-indent: 2em;}
 .tr_cont5 .container p{font-weight: bold;padding: 5px 0;}
 
+.hop_banner {overflow: hidden;position: relative;}
+.hop_banner img{width: 100%;}
+
 
 
 /*@media screen and (max-width: 700px) { !*当屏幕尺寸小于700px时，应用下面的CSS样式*!
